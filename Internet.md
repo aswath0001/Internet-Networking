@@ -2,7 +2,7 @@
 
 ## What is Internet ?
 
-Internet is a collection of computers interconnected to each other for sharing data
+Internet is a collection of computers interconnected to each other for sharing data on global stage is called Internet
 
 ## Define Computer ?
 
