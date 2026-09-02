@@ -2,16 +2,19 @@
 
 ## What is Internet ?
 
-Internet is a collection of computers interconnected to each other for sharing data on global stage is called Internet
+Internet is a collection of computers interconnected to each other for sharing data on global stage.
 
 ```mermaid
 flowchart TD
-    A[Computer A] 
-    A --> C{Wifi}
-    C --> D[Computer B]
-    C --> E[Computer C]
+   ```mermaid
+flowchart TD
+    AP((Wi-Fi Router / AP))
     
-    C --> F[ Computer D]
+    A[Computer A<br/>192.168.1.10] <-->|Wireless| AP
+    B[Computer B<br/>192.168.1.11] <-->|Wireless| AP
+    C[Computer C<br/>192.168.1.12] <-->|Wireless| AP
+    D[Computer D<br/>192.168.1.13] <-->|Wireless| AP
+```
 ```
 
 ## Define Computer ?
