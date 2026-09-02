@@ -4,6 +4,16 @@
 
 Internet is a collection of computers interconnected to each other for sharing data on global stage is called Internet
 
+```mermaid
+flowchart TD
+    A[Computer A] 
+    A --> C{Wifi}
+    C --> D[Computer B]
+    C --> E[Computer C]
+    
+    C --> F[ Computer D]
+```
+
 ## Define Computer ?
 
 COMPUTER : Commonly Oriented Meachine Particularly For Training Education And Research
