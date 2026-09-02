@@ -1,9 +1,12 @@
-# Cybersecurity Progress Notes
+# Internet 
 
-## How Mermaid Diagrams Work
+## What is Internet ?
 
-Mermaid lets you write diagrams as text inside a code block tagged with `mermaid`.
-Kiro (and GitHub, Obsidian, etc.) will render it as a visual diagram automatically.
+
+
+## Define Computer ?
+
+COMPUTER : Commonly Oriented Meachine Particularly For Training Education And Research
 
 ---
 
