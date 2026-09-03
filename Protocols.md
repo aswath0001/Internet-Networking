@@ -18,5 +18,4 @@ graph LR
     D --> I[Web]
     E --> J[File Transfer]
     F --> K[Email]
-    
-    ```
+```
