@@ -19,9 +19,10 @@ graph LR
     E --> J[File Transfer]
     F --> K[Email]
 ```
-TCP: Transmission Control Protocol 
-UDP:User Datagram Protocol
-HTTPS:Hypertext Transfer Protocol Secure
-HTTPS:Hypertext Transfer Protocol
-FTP:File Transfer Protocol
-SMTP:Simple Mail Transfer Protocol
+
+*TCP: Transmission Control Protocol 
+*UDP:User Datagram Protocol
+*HTTPS:Hypertext Transfer Protocol Secure
+*HTTPS:Hypertext Transfer Protocol
+*FTP:File Transfer Protocol
+*SMTP:Simple Mail Transfer Protocol
