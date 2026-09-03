@@ -4,6 +4,8 @@
 
 Protocols are set of rules defined by Internet Society
 
+
+   ```mermaid
 graph LR
     A[Protocols] --> B[TCP/IP]
     A --> C[UDP]
@@ -16,3 +18,4 @@ graph LR
     D --> I[Web]
     E --> J[File Transfer]
     F --> K[Email]
+    ```
