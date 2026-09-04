@@ -22,7 +22,7 @@ COMPUTER : Commonly Oriented Meachine Particularly For Training Education And Re
 
 ## IP Address ?
 
-An IP Address is a unique id assigned to each device connected to the computer network which used Internet Protocol for communication 
-  
+An IP Address is a unique id assigned to each device connected to the computer network which used Internet Protocol for communication.
+
 ---
 
