@@ -8,7 +8,7 @@ Internet is a collection of computers interconnected to each other for sharing d
 * 1 Gbps :10^9 bits/s
 * 1 Kbps :1000 bits/s
 
-   ```mermaid
+```mermaid
 flowchart TD
     AP((Wi-Fi Router / AP))
     
