@@ -32,6 +32,9 @@ flowchart TD
     B -->|Local IP 2| E[Device 2]
     B -->|Local IP 3| F[Device 3]
    ```
-   
+## Port number
+
+An IP adress is used to find the location of the device ,Meanwhile port number is used to find the which application in the device you are using.
+
 ---
 
