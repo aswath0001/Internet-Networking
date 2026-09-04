@@ -24,5 +24,14 @@ COMPUTER : Commonly Oriented Meachine Particularly For Training Education And Re
 
 An IP Address is a unique id assigned to each device connected to the computer network which used Internet Protocol for communication.
 
+   ```mermaid
+flowchart TD
+    A[ISP Internet service provider] -->|WIFI Connection| B(Modem/Router)
+    
+    B-->|Local IP 1| D[Device 1]
+    B -->|Local IP 2| E[Device 2]
+    B -->|Local IP 3| F[Device 3]
+   ```
+   
 ---
 
