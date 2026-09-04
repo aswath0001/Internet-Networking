@@ -34,7 +34,7 @@ flowchart TD
    ```
 ## Port number
 
-An IP adress is used to find the location of the device ,Meanwhile port number is used to find the which application in the device you are using.
+An IP adress is used to find the location of the device ,Meanwhile port number is used to find the which application in the device you are using. Ports are 16 bit numbers.
 
 ---
 
