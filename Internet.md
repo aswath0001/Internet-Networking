@@ -4,9 +4,10 @@
 
 Internet is a collection of computers interconnected to each other for sharing data on global stage via IP addresses
 
+* 1 Kbps :1000 bits/s
 * 1 Mbps : 1000,000  bits/s
 * 1 Gbps :10^9 bits/s
-* 1 Kbps :1000 bits/s
+
 
 ```mermaid
 flowchart TD
