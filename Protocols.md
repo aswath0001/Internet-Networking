@@ -25,3 +25,7 @@ graph LR
 * HTTP: Hypertext Transfer Protocol
 * FTP: File Transfer Protocol
 * SMTP: Simple Mail Transfer Protocol
+
+##HTTP
+
+It is used in web pages which uses port 80 
