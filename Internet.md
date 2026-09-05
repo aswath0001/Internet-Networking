@@ -6,6 +6,17 @@ Internet is a collection of computers interconnected to each other for sharing d
 * Physically : using Optical fibre cables and coaxil cables
 * Wireless: bluetooth,wifi,3G,4G,5G,LTE can used for short range (Until reaching the tower, it's wireless; after the tower, it's wired) 
 
+```mermaid
+flowchart TD
+    AP((Wi-Fi Router / AP))
+    
+    A[Computer A<br/>192.168.1.10] <-->|Wireless| AP
+    B[Computer B<br/>192.168.1.11] <-->|Wireless| AP
+    C[Computer C<br/>192.168.1.12] <-->|Wireless| AP
+    D[Computer D<br/>192.168.1.13] <-->|Wireless| AP
+```
+
+
 ### file sizes
   It defines the speed of uploading and downloading files in computers
 
@@ -17,18 +28,18 @@ Internet is a collection of computers interconnected to each other for sharing d
 
 * LAN: Local area Network (For small house or office)
 eg:Wifi,Ethernet
-* WAN: Wide area Network 
-
+* WAN: Wide area Network (Across countries)
+* MAN: Metropolitan Area Network (Across the city)
 
 ```mermaid
 flowchart TD
-    AP((Wi-Fi Router / AP))
+    A[Network types] 
     
-    A[Computer A<br/>192.168.1.10] <-->|Wireless| AP
-    B[Computer B<br/>192.168.1.11] <-->|Wireless| AP
-    C[Computer C<br/>192.168.1.12] <-->|Wireless| AP
-    D[Computer D<br/>192.168.1.13] <-->|Wireless| AP
+    A--> D[LAN]
+    A -->E[WAN]
+    A --> F[MAN]
 ```
+
 
 
 ## Define Computer ?
