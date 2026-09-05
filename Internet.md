@@ -4,11 +4,11 @@
 
 Internet is a collection of computers interconnected to each other for sharing data on global stage via IP addresses. It connects different countries or places in two ways which are,
 * Physically : using Optical fibre cables and coaxil cables
-* Wireless: using radio signals,bluetooth,wifi etc
+* Wireless: bluetooth,wifi,3G,4G,5G,LTE can used for short range (Until reaching the tower, it's wireless; after the tower, it's wired) 
 
 ### file sizes
   It defines the speed of uploading and downloading files in computers
-  
+
 * 1 Kbps :1000 bits/s
 * 1 Mbps : 1000,000  bits/s
 * 1 Gbps :10^9 bits/s
