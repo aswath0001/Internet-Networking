@@ -58,7 +58,7 @@ flowchart TD
     B-->|Local IP 1| D[Device 1]
     B -->|Local IP 2| E[Device 2]
     B -->|Local IP 3| F[Device 3]
-
+   ```
     
 ### Modem
 
@@ -67,7 +67,7 @@ Modem is used to convert digital signals into analog signals and vice versa
 ### Router
 
 Router is a device that redirects the packets to its designated IP Adresses
-   ```
+
 ## Port number
 
 An IP adress is used to find the location of the device ,Meanwhile port number is used to find the which application in the device you are using. Ports are 16 bit numbers which is 2^16
