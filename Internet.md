@@ -67,4 +67,7 @@ An IP adress is used to find the location of the device ,Meanwhile port number i
 * Ports 1024 to 49152 : Reserved for specific applications
 * remaining ports:for our use
 ---
+## Modem
+
+Modem is used to convert digital signals into analog signals
 
