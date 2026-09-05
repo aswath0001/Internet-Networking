@@ -6,8 +6,9 @@ Internet is a collection of computers interconnected to each other for sharing d
 * Physically : using Optical fibre cables and coaxil cables
 * Wireless: using radio signals,bluetooth,wifi etc
 
-### Internet
-
+### file sizes
+  It defines the speed of uploading and downloading files in computers
+  
 * 1 Kbps :1000 bits/s
 * 1 Mbps : 1000,000  bits/s
 * 1 Gbps :10^9 bits/s
