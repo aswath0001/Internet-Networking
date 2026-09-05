@@ -13,7 +13,11 @@ Internet is a collection of computers interconnected to each other for sharing d
 * 1 Mbps : 1000,000  bits/s
 * 1 Gbps :10^9 bits/s
 
+### Types of network
 
+* LAN: Local area Network (For small house or office)
+eg:Wifi,Ethernet
+* WAN: Wide area Network 
 
 
 ```mermaid
