@@ -6,6 +6,7 @@ Internet is a collection of computers interconnected to each other for sharing d
 * Physically : using Optical fibre cables and coaxil cables
 * Wireless: using radio signals,bluetooth,wifi etc
 
+### Internet
 
 * 1 Kbps :1000 bits/s
 * 1 Mbps : 1000,000  bits/s
