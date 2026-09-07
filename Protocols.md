@@ -4,28 +4,34 @@
 
 Protocols are set of rules defined by Internet Society
 
-
-   ```mermaid
+```mermaid
 graph LR
-    A[Protocols] --> B[TCP/IP]
-    A --> C[UDP]
-    A --> D[HTTP/HTTPS]
-    A --> E[FTP]
-    A --> F[SMTP]
-    
-    B --> G[Reliable]
-    C --> H[Fast]
-    D --> I[Web]
-    E --> J[File Transfer]
-    F --> K[Email]
+ A[Protocols] --> B[TCP/IP]
+ A --> C[UDP]
+ A --> D[HTTP/HTTPS]
+ A --> E[FTP]
+ A --> F[SMTP]
+
+ B --> G[Reliable]
+ C --> H[Fast]
+ D --> I[Web]
+ E --> J[File Transfer]
+ F --> K[Email]
 ```
-* TCP: Transmission Control Protocol
-* UDP: User Datagram Protocol
-* HTTPS: Hypertext Transfer Protocol Secure
-* HTTP: Hypertext Transfer Protocol
-* FTP: File Transfer Protocol
-* SMTP: Simple Mail Transfer Protocol
+
+- TCP: Transmission Control Protocol
+- UDP: User Datagram Protocol
+- HTTPS: Hypertext Transfer Protocol Secure
+- HTTP: Hypertext Transfer Protocol
+- FTP: File Transfer Protocol
+- SMTP: Simple Mail Transfer Protocol
+
+```mermaid
+flowchart LR
+    System(["System"]) -- Request --> Server(["Server"])
+    Server -- Response --> System
+```
 
 ## HTTP
 
-It is used in web pages which uses port 80 
+It is used in web pages which uses port 80
