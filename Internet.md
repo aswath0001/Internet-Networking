@@ -49,7 +49,7 @@ COMPUTER : Commonly Oriented Meachine Particularly For Training Education And Re
 
 ## IP Address ?
 
-An IP Address is a unique id assigned to each device connected to the computer network which used Internet Protocol for communication.
+An IP Address is a unique id assigned to each  device connected to the computer network which used Internet Protocol for communication.
 
    ```mermaid
 flowchart TD
@@ -59,7 +59,7 @@ flowchart TD
     B -->|Local IP 2| E[Device 2]
     B -->|Local IP 3| F[Device 3]
    ```
-    
+
 ### Modem
 
 Modem is used to convert digital signals into analog signals and vice versa 
