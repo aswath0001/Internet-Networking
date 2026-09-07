@@ -26,11 +26,6 @@ graph LR
 - FTP: File Transfer Protocol
 - SMTP: Simple Mail Transfer Protocol
 
-```mermaid
-flowchart LR
-    System(["System"]) -- Request --> Server(["Server"])
-    Server -- Response --> System
-```
 
 ## HTTP
 
