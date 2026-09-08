@@ -23,11 +23,18 @@ flowchart LR
 Star Topology is a network setup in which each device is connected to a central node called a hub. The hub manages the data flow between the devices. If one device wants to send data to another device, it has to first send the information to the hub, and then the hub transmits that data to the required device.
 
 
-               💻 PC 1
-                 |
-                 |
-💻 PC 2 --------🔀-------- 💻 PC 3
-              / HUB \
-             /       \
-            /         \
-        💻 PC 4       💻 PC 5
+```mermaid
+     graph TD
+    H[Hub/Switch]
+    
+    H --- N1[Node 1]
+    H --- N2[Node 2]
+    H --- N3[Node 3]
+    H --- N4[Node 4]
+    H --- N5[Node 5]
+    H --- N6[Node 6]
+    H --- N7[Node 7]
+    H --- N8[Node 8]
+
+```    
+ 
