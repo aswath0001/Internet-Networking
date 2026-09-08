@@ -53,9 +53,6 @@ graph TD
         N2 --- N3
         N2 --- N4
         N3 --- N4
-        
-    end
-
     
 ```
     
