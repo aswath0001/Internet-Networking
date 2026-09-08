@@ -31,6 +31,7 @@ eg:Wifi,Ethernet
 * WAN: Wide area Network (Across countries)
 eg:Optical fibre cables,SONET,Frame relay connects local area network with wide area network
 * MAN: Metropolitan Area Network (Across the city)
+eg:Optical fibre cables,Wireless network 
 
 ```mermaid
 flowchart TD
