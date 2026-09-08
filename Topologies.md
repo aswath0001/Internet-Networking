@@ -37,4 +37,26 @@ Star Topology is a network setup in which each device is connected to a central 
     H --- N8[Node 8]
 
 ```    
- 
+
+## Mesh Topology
+
+In mesh topology every computer in the network is connected to each other. It is a bit expensive so much wires are need to be used. If you want to add a new computer to the network you need to to connect it with all other systems in the network 
+
+
+```mermaid
+graph TD
+    subgraph "Full Mesh Topology"
+        N1[Node 1] --- N2[Node 2]
+        N1 --- N3[Node 3]
+        N1 --- N4[Node 4]
+        
+        N2 --- N3
+        N2 --- N4
+        
+        N3 --- N4
+    end
+
+    
+```
+    
+  
