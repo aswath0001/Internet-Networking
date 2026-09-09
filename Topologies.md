@@ -46,7 +46,7 @@ In mesh topology every computer in the network is connected to each other. It is
 ```mermaid
 graph TD
    
-        N1(Sysrem 1) --- N2(Sysrem 2)
+        N1(Sysrem 1) ---N2(Sysrem 2)
         N1 --- N3(Sysrem 3)
         N1 --- N4(Sysrem 4)
         
