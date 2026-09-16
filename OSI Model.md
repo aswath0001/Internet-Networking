@@ -17,4 +17,12 @@ graph TD
     L3 --> L2["Layer 2: Data Link"]
     L2 --> L1["Layer 1: Physical"]
 ```  
+
+### Application Layer 
+
+Application layer refers the software applications we use like Whatsapp, Instagaram etc..
+
+### Presentation Layer 
+
+Presentation Layer receives the data from the application layer and converts it into meachine representable code
  
