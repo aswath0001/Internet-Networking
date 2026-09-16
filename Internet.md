@@ -2,7 +2,7 @@
 
 ## What is Internet ?
 
-Internet is a collection of computers interconnected to each other for sharing data on global stage via IP addresses. It connects different countries or places in two ways which are,
+Internet is a collection of  computers interconnected to each other for sharing data on global stage via IP addresses. It connects different countries or places in two ways which are,
 * Physically : using Optical fibre cables and coaxil cables
 * Wireless: bluetooth,wifi,3G,4G,5G,LTE can used for short range (Until reaching the tower, it's wireless; after the tower, it's wired) 
 
