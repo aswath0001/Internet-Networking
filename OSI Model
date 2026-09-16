@@ -8,13 +8,12 @@ The OSI (Open Systems Interconnection) Model is a conceptual framework created b
 
 OSI model uses a seven steps for transmitting or sharing data or files between two computers. Those layers are ,
 
-```mermaid
-flowchart TD
-    A["7. Application"] --> B["6. Presentation"]
-    B --> C["5. Session"]
-    C --> D["4. Transport"]
-    D --> E["3. Network"]
-    E --> F["2. Data Link"]
-    F --> G["1. Physical"]
-```
+graph TD
+    L7["Layer 7: Application"] --> L6["Layer 6: Presentation"]
+    L6 --> L5["Layer 5: Session"]
+    L5 --> L4["Layer 4: Transport"]
+    L4 --> L3["Layer 3: Network"]
+    L3 --> L2["Layer 2: Data Link"]
+    L2 --> L1["Layer 1: Physical"]
+    
  
