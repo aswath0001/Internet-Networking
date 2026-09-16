@@ -24,5 +24,14 @@ Application layer refers the software applications we use like Whatsapp, Instaga
 
 ### Presentation Layer 
 
-Presentation Layer receives the data from the application layer and converts it into meachine representable code
+Presentation Layer receives the data from the application layer and converts it into meachine representable binary code .It act as a translator.It protects data by encoding at the sender side and decode it at the recevier end. It compress the data to speedup transfer times 
  
+### Session Layer 
+
+Session Layer establishes, manages,Authorization, synchronizes, and terminates communication sessions between applications on different devices
+
+### Transport layer
+
+The data is transpoeted in 3 ways,
+
+ 1) The data recevied from the session layer is divided into small data units called segments. Every segments contains the destination port number and a sequence number which helps to reasamble the segments in correct order. It contains a checksum which checks the data recevied is safe or not 
