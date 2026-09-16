@@ -9,7 +9,7 @@ The OSI (Open Systems Interconnection) Model is a conceptual framework created b
 OSI model uses a seven steps for transmitting or sharing data or files between two computers. Those layers are ,
 
 ```mermaid
-graph LR
+graph TD
     L7["Layer 7: Application"] --> L6["Layer 6: Presentation"]
     L6 --> L5["Layer 5: Session"]
     L5 --> L4["Layer 4: Transport"]
